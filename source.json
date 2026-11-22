@@ -1,0 +1,29 @@
+{
+  "name": "Claude Source",
+  "identifier": "com.claude.source",
+  "subtitle": "Claude Legacy para iOS",
+  "apps": [
+    {
+      "name": "Claude Legacy",
+      "bundleIdentifier": "com.mgefimov.ClaudeLegacy",
+      "developerName": "mgefimov",
+      "localizedDescription": "Claude Legacy para iPhone y iPad.",
+      "iconURL": "https://github.com/mgefimov.png",
+      "tintColor": "#D97757",
+      "versions": [
+        {
+          "version": "1.0.11",
+          "date": "2026-09-12",
+          "size": 1000290,
+          "downloadURL": "https://github.com/mgefimov/claude-legacy-ios/releases/download/v1.0.11/ClaudeLegacy.ipa",
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
